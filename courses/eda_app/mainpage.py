@@ -10,7 +10,7 @@ st.markdown("""
              
             - **Python libraries:** streamlit, pandas, numpy, ...
              
-            - **Need to contact: **[mon portfolio](https://github.com/paulmaitre/)""")
+            - **Need to contact:** [mon portfolio](https://github.com/paulmaitre/)""")
 
 
 ###### File upload
