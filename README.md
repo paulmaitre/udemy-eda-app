@@ -2,29 +2,29 @@
 
 What I have learn in this course: 
 
-    - What is EDA
+    - What is EDA ✅
       
-    - Why EDA is needed
+    - Why EDA is needed ✅
       
-    - What is multi collinearity
+    - What is multi collinearity ✅
       
-    - How to identify outliers
+    - How to identify outliers ✅
       
-    - How to identify relationship between variables
+    - How to identify relationship between variables ✅
       
-    - Chi Square Test & other tests
+    - Chi Square Test & other tests ✅
       
-    - How to transform continuous data
+    - How to transform continuous data ✅
       
-    - How to transform categorical dara
+    - How to transform categorical dara ✅
       
-    - Central Tendency Vs Dispersion
+    - Central Tendency Vs Dispersion ✅
       
-    - How to handle missing values in your dataset
+    - How to handle missing values in your dataset ✅
       
-    - How to apply EDA (through an assignment)
+    - How to apply EDA (through an assignment) ✅
       
-    - How to derive maximum value for your data
+    - How to derive maximum value for your data ✅
 
 Composed of : 
 
